@@ -1,4 +1,4 @@
-## Project Overview
+## Project Overview: 📋🌟
 This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process.
 
 * In Part I, Exploratory data visualization, you will use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables.
@@ -14,7 +14,7 @@ This project uses Python 3 and is designed to be completed through the Jupyter N
 * Matplotlib
 * Seaborn
 
-## Why this project?
+## Why this project?: 🤔❓
 
 Data visualization is an important skill that is used in many parts of the data analysis process.
 
